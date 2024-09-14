@@ -32,7 +32,7 @@ pip install pandas openpyxl tkinter
 ### Clone the Repository
 
 ```bash
-soon
+gh repo clone FALLEN-01/DOUB-TRIP-LET-CALCULATOR
 cd PROJECT038
 ```
 
